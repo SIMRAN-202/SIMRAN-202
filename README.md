@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=simran202&label=Profile%20views&color=0e75b6&style=flat" alt="simran202" /> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=simran202.simran202" alt="Profile Visitors" />
   <a href="https://twitter.com/debugingwithsim" target="_blank">
     <img src="https://img.shields.io/twitter/follow/debugingwithsim?logo=twitter&style=for-the-badge" alt="debugingwithsim" />
   </a>
