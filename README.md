@@ -20,9 +20,9 @@
 - 👩‍🏫 I also enjoy **sharing coding tips** and **explaining concepts** on social media  
 - 🧠 Currently exploring **Next.js**, **API development**, and **performance optimization**  
 - 🌟 Fun Facts About Me
-  - I code while listening to music 🎧  
-  - I love making tutorials for beginners 📝  
-  - My favorite language is JavaScript 😎
+  - I code in pure silence.  
+  - I love making videos for YouTube.  
+  - My favourite language is Python!!
 - 📫 Reach me at **kaursimrankaur2003@gmail.com**
 
 ---
