@@ -24,7 +24,10 @@
   - I love making videos for YouTube.  
   - My favourite language is Python!!
 - 📫 Reach me at **kaursimrankaur2003@gmail.com**
-- I occasionally blog and share insights on [CoderLegion](https://coderlegion.com/) — check out my latest here: [Click here!](https://coderlegion.com/7640/the-truth-about-building-in-public-what-no-one-tells-you)
+
+### 🌐 Join Me on CoderLegion
+
+[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/debuggingwithsim) Check out my articles and community posts on [CoderLegion!](https://coderlegion.com/user/debuggingwithsim)
 
 ---
 
